@@ -1,0 +1,22 @@
+﻿The analysis shows schools' performance according to the total proportion of students who pass. The schools are divided into those with the best and lowest performance levels. It also provides a breakdown of arithmetic results per grade. A number of variables are highlighted in the statistics, including the total number of students, the overall budget for the school, the budget for each student, the average score in math and reading, the proportion of kids passing both arithmetic and reading, and the overall passing percentage.
+
+
+Conclusions and Analogies
+Charter vs. district school performance:
+
+
+It is clear from the list of the best-performing schools that charter schools occupy the top positions, with Cabrera High School in the lead with an overall passing percentage of 91.33%. The top five schools are all charter institutions with high passing rates in reading and math.
+On the other hand, District schools make up the majority of the lowest-performing school ranking, with Rodriguez High School having the lowest total passing rate at 52.98%. This implies that Charter and District schools perform significantly differently from one another.
+Budget versus Outcomes:
+
+
+One of the best-performing schools, Cabrera High School, has a per-student budget of $5820, according to an analysis of the budget. Rodriguez High School, on the other hand, is a low-performing school with a far larger budget of $6637 per student. This suggests that other elements, such school administration and teacher quality, may be more important for a student's success and that a larger budget per student does not always translate into better performance.
+Further Understanding
+
+
+Grade-specific Math Scores:
+In order to separate and examine math scores by grade, the data is arranged (9th to 12th). This can provide light on how kids' arithmetic ability changes over the course of high school and pinpoint any specific subjects in which they do particularly poorly.
+
+
+Performance in Math vs. Reading:
+It is also observed that in both the top-performing and lowest-performing schools, the percentage of kids passing reading is typically higher than the number passing arithmetic. This pattern might be utilized to concentrate instructional methods on raising math proficiency in particular.
